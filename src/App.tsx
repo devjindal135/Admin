@@ -22,11 +22,7 @@ const App = () => {
         <Routes>
           <Route
             path="/"
-            element={
-              <Link to="/admin/dashboard">
-                <button>Visit Dashboard</button>
-              </Link>
-            }
+            element={<Dashboard />}
           />
 
           <Route path="/admin/dashboard" element={<Dashboard />} />
