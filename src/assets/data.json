@@ -1,0 +1,52 @@
+{
+  "categories": [
+    {
+      "value": 75,
+      "heading": "Rahul"
+    },
+
+    {
+      "value": 100,
+      "heading": "Sam"
+    },
+    {
+      "value": 80,
+      "heading": "Dev"
+    },
+    {
+      "value": 88,
+      "heading": "Dhruv"
+    }
+  ],
+
+  "transaction": [
+    {
+      "id": "Web Software",
+      "amount": 400000,
+      "quantity": 4,
+      "discount": 3000,
+      "status": "Processing"
+    },
+    {
+      "id": "Application",
+      "amount": 51000,
+      "quantity": 2,
+      "discount": 900,
+      "status": "Processing"
+    },
+    {
+      "id": "Consulting",
+      "amount": 13000,
+      "quantity": 91,
+      "discount": 0,
+      "status": "Shipped"
+    },
+    {
+      "id": "Ad's",
+      "amount": 230000,
+      "quantity": 4,
+      "discount": 2000,
+      "status": "Processing"
+    }
+  ]
+}
